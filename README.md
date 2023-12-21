@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rithis</h1>
 <h3 align="center">Harmonizing the Symphony of Code: Crafting Elegance in Bits and Bytes</h3>
 
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/LvXdykz3anX9eLeolAPRBmcL4dvf1VA9mLQkZCv97xA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif">
+
 - 🌱 I’m currently learning **django,flask etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaggyjr](https://github.com/shaggyjr)
