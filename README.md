@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Currently working on: Building skills and crafting innovative projects.<br><br>👯 Looking to collaborate on: Exploring frameworks and exciting coding ventures.<br><br>🤝 Seeking help with: Sharpening my knowledge in frameworks and related technologies.<br><br>🌱 Currently learning: Embracing new frameworks and expanding my coding repertoire.<br><br>💬 Ask me about: Anything coding-related! I'm here to share and learn together.<br><br>⚡ Fun fact: I code! 🚀<br>
-
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/LvXdykz3anX9eLeolAPRBmcL4dvf1VA9mLQkZCv97xA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY2hvY2stY29k/aW5nLWM3OGY2ZWxq/MzJzZm9pOHEuZ2lm.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rithisnaha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithisnaha/)
